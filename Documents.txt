@@ -1,0 +1,80 @@
+[5:07 PM, 10/20/2021] .: https://studio.code.org/projects/gamelab/H5H4DNRcClxCaMXVVuwIBTyvyyNDR8AUEw4u-wg77g0
+[6:00 PM, 10/20/2021] .: Here's the link to the file:
+https://in.docworkspace.com/d/sIJOKnvAwuZfAiwY
+
+Get WPS Office for Android:
+https://kso.page.link/wps2
+
+Free! Get WPS Office for PC:
+wps.com/d/?from=tail
+[3:31 PM, 10/21/2021] .: https://drive.google.com/drive/folders/199sNSBs0PMsgkCjEtgAW9V8t3_b9Pf9k?usp=sharing
+[3:31 PM, 10/21/2021] .: Boiler plate
+[4:16 PM, 10/21/2021] .: https://drive.google.com/drive/folders/1xkzD2rWZe9YXxpqPVk3I8OeQ6UM0OoMG
+[4:16 PM, 10/21/2021] .: All
+[4:16 PM, 10/21/2021] .: Running app
+[5:00 PM, 10/21/2021] .: https://docs.google.com/document/d/1-aQp16-Ffgz9TszCh3I-U02FLhcf1aCF7kF-gDp-Bik/edit?usp=sharing
+[5:00 PM, 10/21/2021] .: Yesterday's game lab
+[5:01 PM, 10/21/2021] .: https://docs.google.com/presentation/d/1QUquVnTQINdu-STq19LNk495FAxPFrLf7yjpdnz022M/edit?usp=sharing
+[3:15 PM, 10/22/2021] .: https://drive.google.com/drive/folders/1xkzD2rWZe9YXxpqPVk3I8OeQ6UM0OoMG
+[4:51 PM, 10/22/2021] .: https://drive.google.com/drive/folders/1xkzD2rWZe9YXxpqPVk3I8OeQ6UM0OoMG
+[4:52 PM, 10/22/2021] .: https://drive.google.com/drive/folders/1xkzD2rWZe9YXxpqPVk3I8OeQ6UM0OoMG
+[4:52 PM, 10/22/2021] .: https://studio.code.org/projects/gamelab/H5H4DNRcClxCaMXVVuwIBTyvyyNDR8AUEw4u-wg77g0
+[9:20 PM, 10/25/2021] .: https://studio.code.org/projects/gamelab/TzZXwVMdqNQmk0s8C7_oA4m1HpFnC53C7TJPC_HGd-E/edit
+[2:57 PM, 10/26/2021] .: https://drive.google.com/file/d/10vl4DMK42XNWVDJXoNWNV1KcR4K73SJU/view?usp=sharing
+[3:18 PM, 10/26/2021] .: https://think.cs.vt.edu/blockpy/blockpy/load
+[5:03 PM, 10/26/2021] .: https://www.anaconda.com/products/individual
+[5:03 PM, 10/26/2021] .: Python
+[4:54 PM, 10/27/2021] .: https://docs.google.com/document/d/1S3EWuq9E0DC7X-_MXMhkdKXkmF4Y4NYJmwez3mcJ2T8/edit?usp=sharing
+[4:54 PM, 10/27/2021] .: Python slires
+[4:11 PM, 10/28/2021] .: https://docs.google.com/forms/d/e/1FAIpQLSc4uYFVNmYBam_zVVcHg0R6cF6xxkhvrWNUM31HmcRgRV_s_w/viewform?usp=sf_link
+[4:32 PM, 10/28/2021] .: https://docs.google.com/document/d/1iCPcGzfEguAObWDLUIJzxGg84OuMsE5_CtnM2uXY15w/edit?usp=sharing
+[4:32 PM, 10/28/2021] .: Capstone
+[4:38 PM, 10/28/2021] .: https://docs.google.com/forms/d/e/1FAIpQLScAzyDiqb_IDOCnhVFv-CxHFJjwCERBcW9qCm9dLCiQdiPc7Q/viewform?usp=sf_link
+[4:38 PM, 10/28/2021] .: Submission form
+[4:47 PM, 10/28/2021] .: pygame.draw.circle(window,color,(x,y),20)
+[3:58 PM, 10/29/2021] .: https://docs.google.com/document/d/1S3EWuq9E0DC7X-_MXMhkdKXkmF4Y4NYJmwez3mcJ2T8/edit?usp=sharing
+[3:58 PM, 10/29/2021] .: Lesson plans
+[3:26 PM, 11/9/2021] .: Sprite lab capstone project – pointers
+•	Set the background
+•	Make a girl sprite and locate her on the bottom left corner of the screen
+•	Declare a variable “score = 0”
+•	Every time the right button is pressed, girl should move some pixels east
+•	If girl’s x position becomes more than 400, then her x position should set back to 0
+•	And the background should change
+•	Another sprite dog should be visible on the bottom right corner of the screen
+•	When girl touches the dog, they both should start moving west and score should change by 100
+[3:28 PM, 11/9/2021] .: Behavior makes the Sprite continuous untill it is stopped
+[3:28 PM, 11/9/2021] .: Print is used to print any text
+[3:57 PM, 11/10/2021] .: https://docs.google.com/forms/d/e/1FAIpQLSfkPd1te5gnWpcNZE-9DZ4EvmoFBPDEHiXZ7Yb7XwdjpiRUbg/viewform
+[3:58 PM, 11/10/2021] .: capstone project find your pet
+[3:58 PM, 11/10/2021] .: sprite lab
+[4:00 PM, 11/10/2021] .: https://docs.google.com/forms/d/e/1FAIpQLSeB2lHjukc-mTynbWiY8lTrLIfb_NjkJpB24lTaPnJPcNZOiQ/viewform
+[4:00 PM, 11/10/2021] .: app lab quiz project
+[4:03 PM, 11/10/2021] .: Capstone project for App Lab: SCIENCE QUIZ APP
+
+Create a science quiz App such that the user can play and get result.
+ 1.Create a welcome screen for starting the Quiz
+2. Create screens for all the questions
+3. Create design element for question and answer
+Hint: use "text"  for questions and "radio buttons" for selecting answers
+4. Create a result screen for the final score
+Hint: use variable to store the score
+5. Write codes for three results,
+   a. if user score=5, display "congratulation" (hint: use text or image to display)
+   b. if user score < 4, display "Try again"
+Hint: use if-else if ladder for this result conditions.
+6.Create home button to get back to home screen
+Hint: use setScreen block
+[4:13 PM, 11/11/2021] .: Sprite lab ppt pdf :
+ https://drive.google.com/file/d/1K6tf9YKv_ZONIRgkWz_5jrbb1RdgN9dh/view?usp=sharing
+[4:16 PM, 11/11/2021] .: App lab ppt pdf :
+Sprite lab study document :
+https://drive.google.com/file/d/1GhQh1P9-Haof4DcJA4RuKdquSmA8iEUl/view?usp=sharing
+Teachers guidelines :
+https://drive.google.com/file/d/1KYBK1_5jQV029SibAt-56Z-3dkRYudff/view?usp=sharing
+Grade1-C1:	https://docs.google.com/forms/d/e/1FAIpQLSfUjobxJM4wnhzfg5OoSBEDzu8R2mQ3jvhmMhHHhzgB2Q2YOQ/viewform
+Grade1-C2 :	https://docs.google.com/forms/d/e/1FAIpQLScArh0tBfsOdv9-29uz9LkuEh7s7F8CcjYULlwuFF5-9vM8rA/viewform
+Grade2-C1:	https://docs.google.com/forms/d/e/1FAIpQLSe9rK6corWBP7leOiEJBZILXmaQlxEye-M0GeFKqJTRYFuVug/viewform
+Grade2-C2	https://docs.google.com/forms/d/e/1FAIpQLSfbGNeCaD9XcIr3Yg1oTXAp4BezJDKPvNQHzkjrt_dmAhkpHA/viewform
+[4:17 PM, 11/11/2021] .: Grade3-C1:	https://docs.google.com/forms/d/e/1FAIpQLSctFFi-OLF8f5KUI3aNPplUXp8SsmZOu6opjP3_fH6FTS8RiA/viewform
+Grade3-C2:	https://docs.google.com/forms/d/e/1FAIpQLSdrs2PA4OcGTGodKLFsq1r6iXH-KLcBwAg4Gz-pIsFVyCGEww/viewform
